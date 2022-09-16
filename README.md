@@ -33,24 +33,6 @@
 
 ---
 
-## 회의록
-
-| 날짜                                                                                          | 내용                                         | 비고        |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------ | --------- |
-| [7월 15일 회의록](https://stingy-vacation-63b.notion.site/7-15-33479317a17b4677befbd874e7cba011) | 핵심 기능 아이디어 회의                              |           |
-| [7월 14일 회의록](https://stingy-vacation-63b.notion.site/7-14-0c5dada88e4e4743b626fae152d86439) | 서비스명 / 로고
-<br/>공통 프로젝트의 목표                 | 컨설턴트님의 컨펌 |
-| [7월 13일 회의록](https://www.notion.so/7-13-929d9c24d6be4fd8ae1b0e37802888ce)                   | Jira, Git-flow, 노션 이용 가이드
-<br/>프로젝트 MVP 선정 |           |
-| [7월 12일 회의록](https://www.notion.so/7-12-5ed855e2870b40fe8bff7ede478b1769)                   | 아이디어 회의
-<br/>스크럼 회의                        | 주제 Fix    |
-| [7월 11일 회의록](https://www.notion.so/7-11-b376d36646044c46a7d95849236b4057)                   | 주제 선정
-<br/>기능 회의                           |           |
-| [7월 7일 ~ 8일 회의록](https://www.notion.so/7-7-8-e1fd4cbd94ad47b8ba68ab20dff90173)              | 프로젝트 아이디어 브레인 스토밍                          |           |
-| [7월 6일 아이디어해커톤](https://www.notion.so/7-6-2d24eaab83b647c0a0eb46f5c61c584c)                 | 아이디어 해커톤 참여(짤 큐레이팅 SNS 서비스 ‘짤만짤줍’ 기획)      |           |
-| [7월 5일 Webex미팅](https://www.notion.so/7-5-Webex-c7bfc6190a3949dc82de731ed07140f3)           | 트랙 선정 (웹 디자인)                              |           |
-
-
 
 ## 프로젝트 상세 설명
 
@@ -58,7 +40,6 @@
 
 - CI/CD
   - Jenkins
-  - Docker
 - 서버
   - AWS EC2
 - 이슈 /버전 관리
@@ -83,7 +64,6 @@
   - API명세 : Swagger
   - 테스팅 : Junit
   - 로깅 : SLF4J & LogBack
-  - 커넥션 풀 : HikariCP
 
 ---
 
@@ -153,12 +133,3 @@
   
   - 단체 티켓팅 모집 기능
   - 실시간 채팅 기능
-
----
-
-### API 구성
-
-### 와이어 프레임
-
-### ERD
-![ERD](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d126745-d835-4fa0-87ac-bddbc722dbe4%2F%25ED%2599%2580%25ED%2599%2580.png?table=block&id=f1103b89-ea79-493f-a53c-c39abd73a213&spaceId=09a9c277-4699-4751-b70a-cb76f75ffa41&width=2000&userId=7b2b5aa3-ea7f-4c1c-8c73-188d77ac01f4&cache=v2)
